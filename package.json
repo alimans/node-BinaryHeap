@@ -1,0 +1,18 @@
+{
+  "name": "binaryheap",
+  "version": "1.0.0",
+  "description": "Binary Heap implenpmentation with JavaScript",
+  "main": "binaryHeap.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [
+    "binary",
+    "heap"
+  ],
+  "author": "amk (Ali M.Mansoory K.)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
